@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Bullet
+  - BulletAI
+  - Sniper Bullet
+  - Enemy
+  - Saw Bullet
+  - WaterPlane
+  - Button
+  - Range
+  - GunSelect
+  - MoveSelect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Bullet
+  - AI
+  - AI Bullet
+  - PostProcessing
+  - ScopeProcessing
+  - Sniper ScopeProcessing
+  - TestWorld
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
